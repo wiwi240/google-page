@@ -1,0 +1,27 @@
+.header-right{
+    text-align: right;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+img {
+    display: block;
+    margin:auto
+}
+        
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 1rem;
+  z-index: 100;
+}
+body { 
+    
+}
+
+
